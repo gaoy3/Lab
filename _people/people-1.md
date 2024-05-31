@@ -1,6 +1,6 @@
 ---
 title: "Yurui Gao"
-excerpt: "Research Assistant Professor of Biomedical Engineering 1<br/><img src='/images/YuruiGao_photo2.jpg'>"
+excerpt: "Research Assistant Professor of Biomedical Engineering <br/><img src='/Lab/images/YuruiGao_photo2.jpg'>"
 collection: people
 ---
 
