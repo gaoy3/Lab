@@ -43,3 +43,4 @@ redirect_from:
 
 ## Full CV 
 [PDF](/Lab/files/00_CV_YuruiGao_github.pdf)
+[PDF](/Lab/files/00_CV_YuruiGao_github.pdf)
