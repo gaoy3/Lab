@@ -42,4 +42,4 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Full CV 
-PDF !!!!!!!
+[PDF](/files/00_CV_YuruiGao_github.pdf)
