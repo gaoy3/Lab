@@ -20,6 +20,11 @@ redirect_from:
 * 2016-2024&nbsp; **Research Assistant Professor**, Departiment of Biomedical Engineering, Vanderbilt University
 * 2013-2016&nbsp; **Postdocral Fellow**, Department of Biomedical Engineering, Vanderbilt University
 
+## Affiliations
+* Vanderbilt University Institute of Imaging Science ([VUIIS](https://www.vumc.org/vuiis/welcome)) 
+* Vanderbilt Memory and Alzheimer's Center ([VMAC](https://www.vumc.org/vmac/home)) 
+* Vanderbilt Lab for Immersive AI Translation ([VALIANT](https://www.vanderbilt.edu/valiant/))
+
 ## Hornors & Awards
 * 2024&nbsp;&nbsp; NIA's Butler-Williams Scholar
 * 2014, 2015, 2017, 2018, & 2022 ISMRM Merit Awards: Summa/Magna Cum Laude 
