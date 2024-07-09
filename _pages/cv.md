@@ -30,7 +30,10 @@ redirect_from:
 ## Grants
 * 2024-2026 [NIH R21AG083915](https://reporter.nih.gov/search/VHlAe3M0skKQ-kEMfqhWqg/project-details/10884723) (PI)
 
+## Full CV 
+[PDF](/Lab/files/00_CV_YuruiGao_github.pdf)
 
+<!--
 ## Selective Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -40,6 +43,4 @@ redirect_from:
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-## Full CV 
-[PDF](/Lab/files/00_CV_YuruiGao_github.pdf)
+-->
