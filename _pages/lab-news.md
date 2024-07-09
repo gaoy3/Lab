@@ -5,39 +5,22 @@ permalink: /lab-news/
 author_profile: true
 ---
 
-{% include base_path %}
+- <span style="color:red">Open for PhD and Postdoc applications! </span> 
 
---------------------------------------------------
-## Education
-* 2008-2013&nbsp; **Ph.D** in Biomedical Engineering, Vanderbilt University, Advisor: Adam Anderson
-* 2005-2008&nbsp;   **M.S.** in Biomedical Engineering, Southeast University, Advisor: Baoxudong
-* 2001-2005&nbsp;   **B.S.** in Biomedical Engineering, Southeast University
+2024 
+------
+- <span style="color:blue">Dr. Gao (PI) is going to receive NIH R21 Grant</span> 
+- 05/30: Welcome to our summer undergrate student Yukie Chang!
+- 04/06: Lyuan Xu's abstract is highly ranked and selected for a Data Blitz presentation at the AD research day!  
 
-## Academic Positions
-* 2024-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Research Associate Professor**, Department of Biomedical Engineering, Vanderbilt University 
-* 2016-2024&nbsp; **Research Assistant Professor**, Departiment of Biomedical Engineering, Vanderbilt University
-* 2013-2016&nbsp; **Postdocral Fellow**, Department of Biomedical Engineering, Vanderbilt University
+2023
+------
+- <span style="color:blue">12/01: Dr. Gao (PI) receives Vanderbilt Memory & Alzherimer's Center (VMAC) Pilot & Feasibility Grant</span> 
 
-## Hornors & Awards
-* 2024&nbsp;&nbsp; NIA's Butler-Williams Scholar
-* 2014, 2015, 2017, 2018, & 2022 ISMRM Merit Awards: Summa/Magna Cum Laude 
-* 2019&nbsp;&nbsp; Human Brain Mapping 2019 Editor's Choice Award
-* 2011&nbsp;&nbsp; [1st Place of ISMRM Poster Awards](https://www.ismrm.org/11/poster_awards.htm) 
-* 2002&nbsp;&nbsp; Chanceller Scholarship of Southeast University (top 1 in BME Dept) 
+2018
+------
+- <span style="color:blue">Dr. Gao (PI) receives Vanderbilt University Discovery Grant</span>
 
-## Grants
-* 2024-2026 [NIH R21AG083915](https://reporter.nih.gov/search/VHlAe3M0skKQ-kEMfqhWqg/project-details/10884723) (PI)
-
-
-## Selective Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-## Teaching
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-## Full CV 
-[PDF](/Lab/files/00_CV_YuruiGao_github.pdf)
+2016
+------
+- <span style="color:blue">Dr. Gao (PI) receives Vanderbilt Institute for Surgery and Engineering (ViSE) Pilot Grant</span>
