@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Lab News"
+    url: /labnews/ 
+
   - title: "Research"
     url: /research/ 
   
