@@ -9,10 +9,10 @@ redirect_from:
 
 [Lab News](/Lab/lab-news/) 
 
-[Research](/Lab/Research/)
+[Research](/Lab/research/)
 
-[Publications](/Lab/Publications/)
+[Publications](/Lab/publications/)
 
-[People](/Lab/People/)
+[People](/Lab/people/)
 
-[CV](/Lab/CV/)
+[CV](/Lab/cv/)
