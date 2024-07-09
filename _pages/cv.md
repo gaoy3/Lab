@@ -43,7 +43,7 @@ redirect_from:
 
 ----------------------------------------
 
-[homw](https://gaoy3.github.io/Lab//)
+[home](https://gaoy3.github.io/Lab//)
 
 
 
