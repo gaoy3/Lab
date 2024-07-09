@@ -9,7 +9,7 @@ author_profile: true
 
 2024 
 ------
-- <span style="color:blue">Dr. Gao (PI) is going to receive NIH R21 Grant</span> 
+- <span style="color:blue">Dr. Gao (PI) receives NIH R21 Grant</span> 
 - 05/30: Welcome to our summer undergrate student Yukie Chang!
 - 04/06: Lyuan Xu's abstract is highly ranked and selected for a Data Blitz presentation at the AD research day!  
 
