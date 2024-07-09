@@ -18,4 +18,4 @@ author_profile: true
 
 ----------------------------------------
 
-[_<<home_](https://gaoy3.github.io/Lab//)
+[_<< home_](https://gaoy3.github.io/Lab//)
