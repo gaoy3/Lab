@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+[Lab News](/Lab/lab-news/) 
+
+[Research](/Lab/Research/)
+
+## Publications
+
+## People
+
+## CV
+
 - <span style="color:red">Open for PhD and Postdoc applications! </span> 
 
 2024 
